@@ -1,0 +1,19 @@
+MAGICHASH()
+MAGICHASH()MAGICHASH()
+MAGICHASH();
+MAGICCASH()
+MAGichash();
+stufMAGICHASH();
+stuff magicHASH();
+stuff MAGICHASH();
+
+#include "MagicHash.h"
+
+MAGICHASH()
+MAGICHASH()MAGICHASH()
+MAGICHASH();
+MAGICCASH()
+MAGichash();
+stufMAGICHASH();
+stuff magicHASH();
+stuff MAGICHASH();
