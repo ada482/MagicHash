@@ -10,8 +10,8 @@
 
 class MagicHashClass;
 
-
 static MagicHashClass MagicHashTableMultiton;
+
 
 class MagicHashClass
 {
@@ -31,15 +31,6 @@ public:
 		
 		if(this!=MagicHashTableMultiton)
 			MagicHashTableMultiton.add(inS,inH);
-	}
-	void add(const string in)
-	{
-		unsigned int tempHash = 0;
-		for(auto i = in.length()-1; i >=0; i--)
-		{
-			tempHash = tempHash ^ in[i];
-		}
-		add(in,tempHash);
 	}
 	int find(const string in)
 	{
@@ -69,7 +60,7 @@ public:
 	}
 };
 
-static MagicHashMultiton;
+
 
 
 #endif
