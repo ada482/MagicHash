@@ -10,14 +10,14 @@ Debugging primarily. For example, trying to find which function is failing to co
 
 
 #Requirements
-AWK
-openssl md5
-cut
-shell
+-AWK
+-openssl md5
+-cut
+-shell
 
 
 
 #Testing Requirements
-Above reqs
-bash
-cmp
+-Above reqs
+-bash
+-cmp
